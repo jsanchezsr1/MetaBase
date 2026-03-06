@@ -1017,3 +1017,4 @@ Start with these exact deliverables:
 6. **BullMQ queue + worker stub**
 
 That is the correct Milestone 1 foundation for the entire system.
+# MetaBase
